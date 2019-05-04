@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.66"
-     inkscape:cx="412.29633"
-     inkscape:cy="918.37106"
+     inkscape:zoom="1.2"
+     inkscape:cx="326.17946"
+     inkscape:cy="660.88195"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1125,5 +1125,101 @@
        id="path5644"
        d="m 138.02962,169.28601 h 4.46285"
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.69999999;stroke-miterlimit:2.70000005;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="84.137497"
+       y="3.5770836"
+       id="text5648"
+       inkscape:label="text_entrance"><tspan
+         sodipodi:role="line"
+         x="84.137497"
+         y="3.5770836"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan5650">Entrance</tspan></text>
+    <text
+       inkscape:label="text_entrance"
+       id="text5656"
+       y="94.858337"
+       x="1.6756914"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         id="tspan5654"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         y="94.858337"
+         x="1.6756914"
+         sodipodi:role="line">Entrance</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="51.285065"
+       y="188.12396"
+       id="text5660"
+       inkscape:label="text_entrance"><tspan
+         sodipodi:role="line"
+         x="51.285065"
+         y="188.12396"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan5658">Entrance</tspan></text>
+    <text
+       inkscape:label="text_entrance"
+       id="text5664"
+       y="123.52153"
+       x="170.12708"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         id="tspan5662"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         y="123.52153"
+         x="170.12708"
+         sodipodi:role="line">Entrance</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="89.517357"
+       y="16.100695"
+       id="text5668"
+       inkscape:label="text_ei"><tspan
+         sodipodi:role="line"
+         id="tspan5666"
+         x="89.517357"
+         y="16.100695"
+         style="stroke-width:0.26458332">2</tspan></text>
+    <text
+       inkscape:label="text_ei"
+       id="text5672"
+       y="133.17882"
+       x="176.38889"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="133.17882"
+         x="176.38889"
+         id="tspan5670"
+         sodipodi:role="line">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="7.7170105"
+       y="104.51562"
+       id="text5676"
+       inkscape:label="text_ei"><tspan
+         sodipodi:role="line"
+         id="tspan5674"
+         x="7.7170105"
+         y="104.51562"
+         style="stroke-width:0.26458332">1</tspan></text>
+    <text
+       inkscape:label="text_ei"
+       id="text5680"
+       y="178.59895"
+       x="58.869789"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="178.59895"
+         x="58.869789"
+         id="tspan5678"
+         sodipodi:role="line">4</tspan></text>
   </g>
 </svg>
